@@ -1,7 +1,5 @@
 ### Olá, sou o Francisco Matheus! 👋
 
-<img align="right" src="https://github.com/MatheusdePaulo/MatheusdePaulo/blob/main/nome_da_sua_imagem.png?raw=true" width="450" />
-
 Sou um **Desenvolvedor Full-Stack em formação** e estudante do 8º semestre de Engenharia da Computação pela Universidade de Fortaleza (UNIFOR). Sou apaixonado por transformar desafios complexos em soluções web completas e eficientes.
 
 - 💻 Atualmente atuando como Desenvolvedor Full-Stack.
@@ -10,6 +8,10 @@ Sou um **Desenvolvedor Full-Stack em formação** e estudante do 8º semestre de
 ---
 
 ### Minhas Habilidades
+
+<p align="right">
+  <img src="https://github.com/MatheusdePaulo/MatheusdePaulo/blob/main/nome_da_sua_imagem.png?raw=true" width="300" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=java&logoColor=fd418d" />
