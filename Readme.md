@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/MatheusdePaulo/MatheusdePaulo/blob/main/img.png?raw=true" width="300" />
 
-[cite_start]Sou um **Desenvolvedor Full-Stack em formação** e estudante do 8º semestre de Engenharia da Computação pela Universidade de Fortaleza (UNIFOR)[cite: 9]. [cite_start]Sou apaixonado por transformar desafios complexos em soluções web completas e eficientes[cite: 6].
+Sou um **Desenvolvedor Full-Stack em formação** e estudante do 8º semestre de Engenharia da Computação pela Universidade de Fortaleza (UNIFOR). Sou apaixonado por transformar desafios complexos em soluções web completas e eficientes.
 
 - 💻 Atualmente atuando como Desenvolvedor Full-Stack.
 - 🌱 Sempre em busca de aprender novas tecnologias e soluções.
@@ -23,10 +23,10 @@
 ### Projetos de Destaque
 
 **1. CRIPTHEUS - Plataforma de Criptografia Interativa**
-[cite_start]Uma plataforma full-stack segura, onde desenvolvi a interface web interativa e responsiva com HTML5, CSS3 e Javascript[cite: 25]. [cite_start]A autenticação é robusta e utiliza PHP (PDO) com hash bcrypt[cite: 24].
+Uma plataforma full-stack segura, onde desenvolvi a interface web interativa e responsiva com HTML5, CSS3 e Javascript. A autenticação é robusta e utiliza PHP (PDO) com hash bcrypt.
 
 **2. Gestão de Manutenção Industrial**
-[cite_start]Um projeto acadêmico que resultou na redução dos custos de manutenção em 30% e do tempo de parada de equipamentos em 60% através da automação de processos e da criação de relatórios SQL estratégicos[cite: 29]. [cite_start]Modelei e implementei um banco de dados relacional em MySQL, aplicando normalização (3FN) para garantir a integridade dos dados e a eficiência das consultas[cite: 30].
+Um projeto acadêmico que resultou na redução dos custos de manutenção em 30% e do tempo de parada de equipamentos em 60% através da automação de processos e da criação de relatórios SQL estratégicos. Modelei e implementei um banco de dados relacional em MySQL, aplicando normalização (3FN) para garantir a integridade dos dados e a eficiência das consultas.
 
 **3. Classificador de E-mails com IA**
 Meu projeto mais recente, onde explorei o mundo da Inteligência Artificial e Docker para criar e executar um classificador de e-mails em um contêiner. Você pode conferir o projeto em funcionamento neste link: [https://huggingface.co/spaces/FranciscoMatheus/autoai-email-classifier]
