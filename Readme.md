@@ -4,7 +4,7 @@
 
 Sou um **Desenvolvedor Full-Stack em formação** e estudante do 8º semestre de Engenharia da Computação pela Universidade de Fortaleza (UNIFOR). Sou apaixonado por transformar desafios complexos em soluções web completas e eficientes.
 
-- 💻 Atualmente atuando como Desenvolvedor Full-Stack.
+- 💻 Atualmente atuando como Desenvolvedor Back-end com foco em php e Laravel na empresa Otimizap.
 - 🌱 Sempre em busca de aprender novas tecnologias e soluções.
 
 ---
