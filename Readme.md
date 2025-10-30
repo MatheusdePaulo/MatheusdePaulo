@@ -2,7 +2,6 @@
 
 <img align="right" src="https://github.com/MatheusdePaulo/MatheusdePaulo/blob/main/img.png?raw=true" width="300" />
 
-Sou um **Desenvolvedor Full-Stack em formação** e estudante do 8º semestre de Engenharia da Computação pela Universidade de Fortaleza (UNIFOR). Sou apaixonado por transformar desafios complexos em soluções web completas e eficientes.
 
 👋 Olá, sou o Matheus de Paulo!
 
