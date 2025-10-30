@@ -12,14 +12,15 @@ Atualmente atuo como Back-End Developer (PHP/Laravel) na Optimiza, com foco em a
 
 ---
 
-### Minhas Habilidades
+### 🚀 Minhas Habilidades  
 
-| Categoria | Tecnologias |
+| **Categoria** | **Tecnologias** |
 | :--- | :--- |
-| **Backend** | <img src="https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=java&logoColor=fd418d" /> <img src="https://img.shields.io/badge/Spring_Boot-141321?style=for-the-badge&logo=spring-boot&logoColor=fd418d" /> <img src="https://img.shields.io/badge/PHP-141321?style=for-the-badge&logo=php&logoColor=fd418d" /> <img src="https://img.shields.io/badge/Laravel-141321?style=for-the-badge&logo=laravel&logoColor=fd418d" /> <img src="https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=fd418d" /> <img src="https://img.shields.io/badge/Flask-141321?style=for-the-badge&logo=flask&logoColor=fd418d" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=fd418d" /> <img src="https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=fd418d" /> <img src="https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=fd418d" /> <img src="https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=fd418d" /> <img src="https://img.shields.io/badge/Bulma-141321?style=for-the-badge&logo=bulma&logoColor=fd418d" /> |
-| **Bancos de Dados** | <img src="https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=fd418d" /> <img src="https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=fd418d" /> |
-| **Outros** | <img src="https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logoColor=fd418d" /> <img src="https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logoColor=fd418d" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=java&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Spring_Boot-141321?style=for-the-badge&logo=spring-boot&logoColor=fd418d"/> <img src="https://img.shields.io/badge/PHP-141321?style=for-the-badge&logo=php&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Laravel-141321?style=for-the-badge&logo=laravel&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Flask-141321?style=for-the-badge&logo=flask&logoColor=fd418d"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=fd418d"/> <img src="https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=fd418d"/> <img src="https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=fd418d"/> <img src="https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Bulma-141321?style=for-the-badge&logo=bulma&logoColor=fd418d"/> |
+| **Bancos de Dados** | <img src="https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=fd418d"/> <img src="https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=fd418d"/> |
+| **DevOps & Ferramentas** | <img src="https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logoColor=fd418d"/> <img src="https://img.shields.io/badge/GitHub_Actions-141321?style=for-the-badge&logo=githubactions&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Linux-141321?style=for-the-badge&logo=linux&logoColor=fd418d"/> |
+| **Outros** | <img src="https://img.shields.io/badge/SEO_Técnico-141321?style=for-the-badge&logo=google&logoColor=fd418d"/> <img src="https://img.shields.io/badge/Core_Web_Vitals-141321?style=for-the-badge&logo=web&logoColor=fd418d"/> <img src="https://img.shields.io/badge/WordPress-141321?style=for-the-badge&logo=wordpress&logoColor=fd418d"/> |
 
 ---
 
