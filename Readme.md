@@ -40,5 +40,5 @@ Aplicação desenvolvida com **Inteligência Artificial e Docker**, criando um c
 
 ### 🤝 Vamos nos Conectar!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/matheusdepaulodev)  
+🔗 [LinkedIn](https://www.linkedin.com/in/matheusdepaulodev)  🚀[Protfólio](https://portifoliomatheusdepaulo.netlify.app/)
 📧 **E-mail:** matheusdepaulo21@gmail.co
