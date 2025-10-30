@@ -3,7 +3,6 @@
 <img align="right" src="https://github.com/MatheusdePaulo/MatheusdePaulo/blob/main/img.png?raw=true" width="300" />
 
 
-👋 Olá, sou o Matheus de Paulo!
 
 Sou Desenvolvedor Full-Stack e estudante de Engenharia da Computação (UNIFOR), apaixonado por transformar desafios técnicos em soluções web performáticas e escaláveis.
 
