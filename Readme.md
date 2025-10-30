@@ -8,13 +8,6 @@ Atualmente atuo como **Back-End Developer (PHP/Laravel)** na Optimiza, com foco 
 
 💡 Tenho como propósito unir **tecnologia, performance e propósito**, buscando sempre aprimorar arquitetura, segurança e eficiência em cada linha de código.
 
-🔗 **Portfólio:** https://portifoliomatheusdepaulo.netlify.app/ • ✉️ **Email:** matheusdepaulo21@gmail.co
-
----
-
-Sumário:  
-- [Habilidades](#habilidades) • [Projetos de Destaque](#projetos-de-destaque) • [Contato](#🤝-vamos-nos-conectar)
-
 ---
 
 ### 🚀 Minhas Habilidades
