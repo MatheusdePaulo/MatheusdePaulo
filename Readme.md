@@ -4,8 +4,13 @@
 
 Sou um **Desenvolvedor Full-Stack em formação** e estudante do 8º semestre de Engenharia da Computação pela Universidade de Fortaleza (UNIFOR). Sou apaixonado por transformar desafios complexos em soluções web completas e eficientes.
 
-- 💻 Atualmente atuando como Desenvolvedor Back-end com foco em php e Laravel na empresa Otimizap.
-- 🌱 Sempre em busca de aprender novas tecnologias e soluções.
+👋 Olá, sou o Matheus de Paulo!
+
+Sou Desenvolvedor Full-Stack e estudante de Engenharia da Computação (UNIFOR), apaixonado por transformar desafios técnicos em soluções web performáticas e escaláveis.
+
+Atualmente atuo como Back-End Developer (PHP/Laravel) na Optimiza, com foco em automação, APIs REST e boas práticas de código limpo.
+
+💡 Busco constantemente aprimorar performance, segurança e arquitetura de aplicações modernas, unindo tecnologia e propósito.
 
 ---
 
