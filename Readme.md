@@ -44,6 +44,6 @@ Atualmente atuo como **Back-End Developer (PHP/Laravel)** na Optimiza, com foco 
 ### 🤝 Vamos nos Conectar!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/matheusdepaulodev)  🚀 [Portfólio](https://portifoliomatheusdepaulo.netlify.app/)  
-📧 **E-mail:** matheusdepaulo21@gmail.co
+📧 **E-mail:** matheusdepaulo21@gmail.com
 
 ---
