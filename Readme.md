@@ -2,11 +2,11 @@
 
 <img align="right" src="https://github.com/MatheusdePaulo/MatheusdePaulo/blob/main/img.png?raw=true" width="300" />
 
-Sou **Desenvolvedor Full-Stack** e estudante de **Engenharia da Computação (UNIFOR)**, apaixonado por transformar desafios técnicos em soluções web performáticas e escaláveis.
+Sou **Desenvolvedor Full-Stack** com foco em aplicações web escaláveis e de alta performance, especializado em **PHP/Laravel, React e TailwindCSS**.
 
-Atualmente atuo como **Desenvolvedor Full Stack (PHP/Laravel)** na Otimizap / Nunu Tech, com foco em **automação, APIs REST e boas práticas de código limpo**.
+Tenho experiência no desenvolvimento de **APIs REST, sistemas administrativos, automações e SaaS**, atuando em projetos reais com atenção à qualidade de código e resolução de problemas de negócio.
 
-💡 Tenho como propósito unir **tecnologia, performance e propósito**, buscando sempre aprimorar arquitetura, segurança e eficiência em cada linha de código.
+💡 Meu propósito é unir **tecnologia, performance e propósito** — entregando soluções que geram resultado real.
 
 -----
 
