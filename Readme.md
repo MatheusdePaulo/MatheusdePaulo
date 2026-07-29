@@ -6,7 +6,7 @@ Sou **Desenvolvedor Full-Stack** com foco em aplicações web escaláveis e de a
 
 Tenho experiência no desenvolvimento de **APIs REST, sistemas administrativos, automações e SaaS**, atuando em projetos reais com atenção à qualidade de código e resolução de problemas de negócio.
 
-💡 Meu propósito é unir **tecnologia, performance e propósito** — entregando soluções que geram resultado real.
+💡 Meu propósito é unir **tecnologia e performance** para entregar soluções que geram resultado real.
 
 -----
 
@@ -24,19 +24,25 @@ Tenho experiência no desenvolvimento de **APIs REST, sistemas administrativos, 
 
 ### 🧠 Projetos de Destaque
 
-**1. 🌐 Portfólio Pessoal — [matheusdepaulo.com](https://matheusdepaulo.com/)**
+**1. 🏢 Studio de Desenvolvimento Web: [matheusdepaulo.com](https://matheusdepaulo.com/)**
 
-- **Sobre:** Site pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos de forma clara e profissional.
-- **Stack:** **Laravel, TailwindCSS, Blade** e boas práticas de UI/UX.
+- **Sobre:** Site do meu estúdio de desenvolvimento, voltado para apresentação de serviços e soluções web para empresas.
+- **Stack:** **Laravel, TailwindCSS, Blade, Vite** e boas práticas de UI/UX.
+- **Resultado:** Aplicação em produção com troca de idioma PT/EN, otimização de performance e design responsivo.
+
+**2. 🌐 Portfólio Pessoal: [portfolio.matheusdepaulo.com](https://portfolio.matheusdepaulo.com/)**
+
+- **Sobre:** Portfólio profissional desenvolvido para apresentar minha trajetória, habilidades e projetos de forma clara e objetiva.
+- **Stack:** **Laravel, Blade, TailwindCSS e Vite**.
 - **Resultado:** Aplicação em produção com design responsivo e foco em performance e experiência do usuário.
 
-**2. ✂️ SaaS para Gestão de Barbearias — [nathandocorte.com](https://nathandocorte.com)**
+**3. ✂️ SaaS para Gestão de Barbearias: [nathandocorte.com](https://nathandocorte.com)**
 
 - **Problema:** Barbearias sem sistema eficiente para gerenciar agendamentos e operação do negócio.
 - **Solução:** Plataforma SaaS full stack com **Laravel, React, TailwindCSS e MySQL**; sistema de agendamentos, autenticação de usuários, painel administrativo e APIs REST com fluxo de reservas em tempo real.
 - **Resultado:** Aplicação em produção utilizada por empresa real, com interface responsiva otimizada para dispositivos móveis.
 
-**3. 🤖 AutoAI — Classificador de E-mails com IA**
+**4. 🤖 AutoAI: Classificador de E-mails com IA**
 
 - **Problema:** Volume alto de e-mails e necessidade de triagem automatizada.
 - **Solução:** Pipeline com **Python + Docker**, modelo hospedado em Hugging Face para classificação automática de e-mails.
@@ -46,7 +52,7 @@ Tenho experiência no desenvolvimento de **APIs REST, sistemas administrativos, 
 
 ### 🤝 Vamos nos Conectar!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/matheusdepaulodev)   🚀 [Portfólio](https://matheusdepaulo.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/matheusdepaulodev)   🚀 [Portfólio](https://portfolio.matheusdepaulo.com/)  
 📧 **E-mail:** [matheusdepaulo21@gmail.com](mailto:matheusdepaulo21@gmail.com)
 
 -----
