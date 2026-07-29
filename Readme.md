@@ -36,7 +36,7 @@ Tenho experiência no desenvolvimento de **APIs REST, sistemas administrativos, 
 - **Stack:** **Laravel, Blade, TailwindCSS e Vite**.
 - **Resultado:** Aplicação em produção com design responsivo e foco em performance e experiência do usuário.
 
-**3. ✂️ SaaS para Gestão de Barbearias: [nathandocorte.com](https://nathandocorte.com)**
+**3. ✂️ SaaS para Gestão de Barbearias: Site Oficial [nathandocorte.com](https://nathandocorte.com)  |  🧪 Versão Demo [demo.nathandocorte.com](https://demo.nathandocorte.com)**
 
 - **Problema:** Barbearias sem sistema eficiente para gerenciar agendamentos e operação do negócio.
 - **Solução:** Plataforma SaaS full stack com **Laravel, React, TailwindCSS e MySQL**; sistema de agendamentos, autenticação de usuários, painel administrativo e APIs REST com fluxo de reservas em tempo real.
