@@ -46,7 +46,7 @@ Tenho experiência no desenvolvimento de **APIs REST, sistemas administrativos, 
 
 - **Problema:** Volume alto de e-mails e necessidade de triagem automatizada.
 - **Solução:** Pipeline com **Python + Docker**, modelo hospedado em Hugging Face para classificação automática de e-mails.
-- **Resultado:** Redução da triagem manual e automação do fluxo de e-mails. Demo pública: [huggingface.co/spaces/FranciscoMatheus/autoai-email-classifier](https://huggingface.co/spaces/FranciscoMatheus/autoai-email-classifier)
+- **Resultado:** Redução da triagem manual e automação do fluxo de e-mails. Demo pública: [autoAI.com](https://huggingface.co/spaces/FranciscoMatheus/autoai-email-classifier)
 
 -----
 
