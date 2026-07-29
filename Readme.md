@@ -42,11 +42,11 @@ Tenho experiência no desenvolvimento de **APIs REST, sistemas administrativos, 
 - **Solução:** Plataforma SaaS full stack com **Laravel, React, TailwindCSS e MySQL**; sistema de agendamentos, autenticação de usuários, painel administrativo e APIs REST com fluxo de reservas em tempo real.
 - **Resultado:** Aplicação em produção utilizada por empresa real, com interface responsiva otimizada para dispositivos móveis.
 
-**4. 🤖 AutoAI: Classificador de E-mails com IA**
+**4. 🤖 AutoAI: Classificador de E-mails com IA Demo pública: [autoAI.com](https://huggingface.co/spaces/FranciscoMatheus/autoai-email-classifier)**
 
 - **Problema:** Volume alto de e-mails e necessidade de triagem automatizada.
 - **Solução:** Pipeline com **Python + Docker**, modelo hospedado em Hugging Face para classificação automática de e-mails.
-- **Resultado:** Redução da triagem manual e automação do fluxo de e-mails. Demo pública: [autoAI.com](https://huggingface.co/spaces/FranciscoMatheus/autoai-email-classifier)
+- **Resultado:** Redução da triagem manual e automação do fluxo de e-mails. 
 
 -----
 
